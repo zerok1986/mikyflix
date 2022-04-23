@@ -40,7 +40,7 @@ npm install
 
 ## ☕ Using <mikyflix>
 
-Para usar <mikyflix>, siga estas etapas:
+To use <mikyflix>, follow this steps:
 
 ```
 npm run start
