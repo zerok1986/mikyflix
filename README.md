@@ -1,8 +1,3 @@
-# mikyflix
-A silly little project to learn Vite
-
-https://mikyflix.netlify.app/
-
 
 # MIKYFLIX
 
@@ -15,7 +10,7 @@ A silly little project to learn Vite
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/zerok1986/mikyflix?style=for-the-badge)
 
 
-### Next updates
+### 📦 Next updates
 
 The project is still under development and the next updates will focus on the following tasks:
 
@@ -25,7 +20,7 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
-## 💻 Pre requirements
+## 🔧 Pre requirements
 
 Before starting, make sure you've met the following requirements:
 <!---These are example requirements only. Add, duplicate or remove as needed--->
@@ -51,6 +46,9 @@ Para usar <mikyflix>, siga estas etapas:
 npm run start
 ```
 
+## 💻 Deployed Version Demo
+
+Please visit [this link](https://mikyflix.netlify.app/) to see the deployed version.
 
 ## 📫 Contributing <mikyflix>
 <!---If your README is long or if you have any specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
