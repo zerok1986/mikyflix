@@ -1,3 +1,9 @@
+.title {
+    color: #b1060f;
+    font-size: 4rem;
+}
+
+
 .search {
     border-radius: 8px;
     position: relative;

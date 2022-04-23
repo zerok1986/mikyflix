@@ -16,7 +16,7 @@ function App () {
 
   return (
     <>
-      <h1>MikyFlix</h1>
+      <h1 className='title'>MikyFlix</h1>
       <form data-testid='form' className='search' onSubmit={handleSubmit}>
         <input
           ref={inputRef}
